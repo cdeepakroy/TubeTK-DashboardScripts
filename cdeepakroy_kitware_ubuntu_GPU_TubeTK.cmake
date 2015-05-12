@@ -65,8 +65,8 @@ set( BUILD_SHARED_LIBS ON )
 
 set( ENV{DISPLAY} ":0" )
 
-set( SITE_CMAKE_COMMAND "/usr/local/bin/cmake" )
-set( SITE_CTEST_COMMAND "/usr/local/bin/ctest -j7" )
+set( SITE_CMAKE_COMMAND "/usr/bin/cmake" )
+set( SITE_CTEST_COMMAND "/usr/bin/ctest -j7" )
 set( SITE_MAKE_COMMAND "make -j7" )
 set( SITE_QMAKE_COMMAND "/home/cdeepakroy/Support/qt-everywhere-opensource-release-build-4.8.6/bin/qmake" )
 
