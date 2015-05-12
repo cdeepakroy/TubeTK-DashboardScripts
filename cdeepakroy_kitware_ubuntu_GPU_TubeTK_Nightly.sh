@@ -2,7 +2,7 @@
 
 MachineName=cdeepakroy_kitware_ubuntu_GPU
 BuildType=Release
-CTestCommand=/usr/local/bin/ctest
+CTestCommand=/usr/bin/ctest
 DashboardDir=/media/common/Libs/TubeTK/dashboard
 
 echo "Running TubeTK Dashboard script"
