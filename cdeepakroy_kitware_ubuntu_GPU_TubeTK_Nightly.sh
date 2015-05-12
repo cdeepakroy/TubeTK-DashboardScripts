@@ -1,6 +1,6 @@
 #!/bin/sh
 
-MachineName=cdeepakroy.kitware.ubuntu.GPU
+MachineName=cdeepakroy_kitware_ubuntu_GPU
 BuildType=Release
 CTestCommand=/usr/local/bin/ctest
 DashboardDir=/media/common/Libs/TubeTK/dashboard
