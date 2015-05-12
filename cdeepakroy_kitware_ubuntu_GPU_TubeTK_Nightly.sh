@@ -1,8 +1,8 @@
 #!/bin/sh
 
-MachineName=cdeepakroy_kitware_ubuntu_GPU
+MachineName=cdeepakroy.kitware.ubuntu.GPU
 BuildType=Release
-CTestCommand=/usr/bin/ctest
+CTestCommand=/usr/local/bin/ctest
 DashboardDir=/media/common/Libs/TubeTK/dashboard
 
 echo "Running TubeTK Dashboard script"
