@@ -21,7 +21,7 @@
 #
 ##############################################################################
 
-set( SITE_NAME "cdeepakroy.kitware.ubuntu.GPU" )
+set( SITE_NAME "cdeepakroy.kitware.GPU" )
 set( SITE_PLATFORM "Ubuntu-14.04.2-LTS" )
 if( NOT SITE_BUILD_TYPE )
   set( SITE_BUILD_TYPE "Release" )
